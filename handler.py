@@ -3,13 +3,13 @@
 # Затем активируем его командой: venv\scripts\activate.ps1
 # Установим следующие библиотека через команды:
 # pip3 install pyTelegramBotAPI
-# Если выйдет оповещение об обновлении, как в строке ниже, копируем её и вводим...
+# Если выйдет оповещение об обновлении, копируем её и вводим...
 # c:\python-3.8.10\python.exe -m pip install --upgrade pip
 # pip3 install --upgrade pyTelegramBotAPI
 # pip3 install requests
 # Для выхода из venv в окне Terminal, ввести: Python.
 # Команда для возврата в виртуальное окружение venv: exit()
-""" КРИПТО БОТ"""
+"""КРИПТО БОТ"""
 
 import telebot
 from exclusions import ConvertionException, CryptoConverter
