@@ -1,5 +1,5 @@
 # Токен, полученный при регистрации БОТа в Telegramm через BotFather:
-TOKEN = '5488241198:AAEiXeBN4DHjuzfuISmYYGEXvj_U3nPNeio'
+TOKEN = 'ввести token Telegram'
 
 # Список валют:
 keys = {
